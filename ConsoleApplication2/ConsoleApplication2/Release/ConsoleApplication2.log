@@ -1,0 +1,18 @@
+﻿  AI_Player.cpp
+d:\kr_dat\consoleapplication2\consoleapplication2\ai_player.cpp(52): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\kr_dat\consoleapplication2\consoleapplication2\ai_player.cpp(69): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\kr_dat\consoleapplication2\consoleapplication2\ai_player.cpp(142): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\kr_dat\consoleapplication2\consoleapplication2\ai_player.cpp(172): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\kr_dat\consoleapplication2\consoleapplication2\ai_player.cpp(201): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\kr_dat\consoleapplication2\consoleapplication2\ai_player.cpp(226): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\kr_dat\consoleapplication2\consoleapplication2\ai_player.cpp(253): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\kr_dat\consoleapplication2\consoleapplication2\ai_player.cpp(282): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\kr_dat\consoleapplication2\consoleapplication2\ai_player.cpp(310): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\kr_dat\consoleapplication2\consoleapplication2\ai_player.cpp(334): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\kr_dat\consoleapplication2\consoleapplication2\ai_player.cpp(362): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  0 of 370 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ConsoleApplication2.vcxproj -> D:\Kr_Dat\ConsoleApplication2\Release\ConsoleApplication2.exe

@@ -1,0 +1,66 @@
+
+move number 0findmax ret -1  value on that line   0
+TEAM   -1
+Before move  
+@@@@@
+@@@@@
+@@X@@
+@@@@@
+@@@@@
+
+After move
+@@@@@
+@@@@@
+@@X@O
+@@@@@
+@@@@@
+
+LINE IS 9 values(my/enemy/neutral): 1 0 4
+
+RETURN 0
+
+move number 1findmax ret 9  value on that line   -1
+TEAM   -1
+Before move  
+@X@@@
+@@@@@
+@@X@O
+@@@@@
+@@@@@
+
+no danger 
+i=  4   j=   4
+
+After move
+@X@@@
+@@@@@
+@@X@O
+@@@@@
+@@@@O
+
+LINE IS 4 values(my/enemy/neutral): 1 0 4
+
+RETURN 0
+
+LINE IS 9 values(my/enemy/neutral): 2 1 2
+
+RETURN 3
+
+move number 1findmax ret 9  value on that line   -1
+TEAM   -1
+Before move  
+@X@@@
+@@@@X
+@@X@O
+@@@@@
+@@@@O
+
+no danger 
+i=  0   j=   4
+
+After move
+@X@@O
+@@@@X
+@@X@O
+@@@@@
+@@@@O
